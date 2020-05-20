@@ -12,6 +12,11 @@
 * I want more details about the customer’s information available when getting calls
 * It would be nice to prioritise customers based on how likely they are to purchase more packages
 * It would be great if we get connected to customers who are enquiring about destinations we are familiar with
+* I want our systems to retrieve customers security question and responses when they try to access 
+* I would like the profiler tool to be editable as we learn more and more about the customer for future reference
+* I want to be given more profiling options for customers in order to better serve them
+* I want to be able to rate customers based on their experience and leave comments if they were disrespectful
+
 
 ## How Might We Statements
 ## Customer HMW
