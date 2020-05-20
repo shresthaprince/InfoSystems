@@ -43,21 +43,21 @@
 * “I’ll try my best to find the right deal for you” - Alex
 * Transfer customer to appropriate RM
 ## See
-*Database system with customer profile - Peter
-*Hotel accomodation booking sites - Peter
-*Tour booking sites - Peter
-*Call management centre  software - Peter
-*Profiler tool - Peter
-*See their profile based on their - sex, age, gender, culture, language proficiency - Britney 
+* Database system with customer profile - Peter
+* Hotel accomodation booking sites - Peter
+* Tour booking sites - Peter
+* Call management centre  software - Peter
+* Profiler tool - Peter
+* See their profile based on their - sex, age, gender, culture, language proficiency - Britney 
 
 ## Pain
-*Not knowing enough information about the destination
-*Not knowing enough information about the holiday packages 
-*New customers may not have enough details on the system to provide accurate information - Alex
+* Not knowing enough information about the destination
+* Not knowing enough information about the holiday packages 
+* New customers may not have enough details on the system to provide accurate information - Alex
 
 ## Gain
-*RM profiles are automatically created and maintained
-*When making outbound calls, will see details about each customer - Payam
-*When clogged with inbound calls, voice response unit will distribute customer's slowly - Payam
-*Customer enquires about destinations I have information on -Prince
+* RM profiles are automatically created and maintained
+* When making outbound calls, will see details about each customer - Payam
+* When clogged with inbound calls, voice response unit will distribute customer's slowly - Payam
+* Customer enquires about destinations I have information on -Prince
 
