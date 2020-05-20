@@ -24,7 +24,15 @@
 * More personalised suggestions based on skill score
 # Relationship Manager
 ## Hear
+* Waiting for the customer to be transferred to them (the suitable RM for that destination)
+* “I would like a refund”
+* "Could I speak to a manager"
 ## Think and Feel
+* This Customer is being rude
+* Organising the logistics of the trip
+* There are too many holiday packages on offer
+* This customer doesn’t know what they want
+* All these requirements might not be feasible for the customer
 ## Say and Do
 ## See
 ## Pain
