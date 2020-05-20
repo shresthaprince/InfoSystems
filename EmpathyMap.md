@@ -15,5 +15,5 @@ Waiting times when trying to get in touch with an RM
 ## See
 ## Pain
 ## Gain
-When making outbound calls, will see details about each customer
+When making outbound calls, will see details about each customer, 
 When clogged with inbound calls, voice response unit will distribute customer's slowly
