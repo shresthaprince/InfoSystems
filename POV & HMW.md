@@ -16,8 +16,13 @@
 * I would like the profiler tool to be editable as we learn more and more about the customer for future reference
 * I want to be given more profiling options for customers in order to better serve them
 * I want to be able to rate customers based on their experience and leave comments if they were disrespectful
-
-
 ## How Might We Statements
+* How might We make our systems Streamlined for greater efficiency
+* How might we make our system more timely
+* How might we connect customers to relevant RM’s
+* How can we provide more details about our customer’s for our RM’s
+* How might we ensure customer account details are secure
+* How might we maintain a future proof system for RM’s in the future 
+* How might we ensure our system matches us with the right people
 ## Customer HMW
 ## RM HMW
