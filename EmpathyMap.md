@@ -14,7 +14,7 @@
 * Could you put me through to a relationship manager please? 
 ## See
 ## Pain
-* Waiting times when trying to get in touch with an RM
+Waiting times when trying to get in touch with an RM
 ## Gain
 
 # Relationship Manager
