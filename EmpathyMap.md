@@ -13,10 +13,15 @@
 * Is there a better deal you could give me?
 * Could you put me through to a relationship manager please? 
 ## See
+* Call length on phone
 ## Pain
-Waiting times when trying to get in touch with an RM
+* Waiting times when trying to get in touch with an RM
+* The Interactive Voice Response Unit is too long
+* RM connects me to another RM
 ## Gain
-
+* Getting connected to RM with less waiting time
+* RM has extensive knowledge about the destination
+* More personalised suggestions based on skill score
 # Relationship Manager
 ## Hear
 ## Think and Feel
@@ -24,5 +29,4 @@ Waiting times when trying to get in touch with an RM
 ## See
 ## Pain
 ## Gain
-When making outbound calls, will see details about each customer, 
-When clogged with inbound calls, voice response unit will distribute customer's slowly
+
