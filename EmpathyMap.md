@@ -34,7 +34,16 @@
 * This customer doesn’t know what they want
 * All these requirements might not be feasible for the customer
 ## Say and Do
+* Fill out 10 minute questionnaire on age, sex, culture, language proficiency, experience and product knowledge  
+* “How can i help you today?”
+* Analyse outbound target list for greater chances of making sales
+* Outbound call customer that matchs profile matrix while using the script provided.
+* Try and inform customer about their destination
+* Let them know about the holiday packages 
+* “I’ll try my best to find the right deal for you” - Alex
+* Transfer customer to appropriate RM
 ## See
+
 ## Pain
 ## Gain
 
