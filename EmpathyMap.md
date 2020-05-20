@@ -40,10 +40,15 @@
 * Outbound call customer that matchs profile matrix while using the script provided.
 * Try and inform customer about their destination
 * Let them know about the holiday packages 
-* “I’ll try my best to find the right deal for you” - Alex
+* “I’ll try my best to find the right deal for you”
 * Transfer customer to appropriate RM
 ## See
-
+* Database system with customer profile
+* Hotel accomodation booking sites
+* Tour booking sites
+* Call management centre  software
+* Profiler tool
+* See their profile based on their - sex, age, gender, culture, language proficiency
 ## Pain
 ## Gain
 
