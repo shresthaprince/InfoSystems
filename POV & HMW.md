@@ -7,6 +7,12 @@
 * I want my account to be secured behind security questions
 * I want someone that understands me best
 ## RM POV
+* I wish our system was able to integrate booking sites for hotels, tours and travel all in our system
+* I had to reconnect 3 callers to other RM’s today because I did not know much about their desired destinations
+* I want more details about the customer’s information available when getting calls
+* It would be nice to prioritise customers based on how likely they are to purchase more packages
+* It would be great if we get connected to customers who are enquiring about destinations we are familiar with
+
 ## How Might We Statements
 ## Customer HMW
 ## RM HMW
