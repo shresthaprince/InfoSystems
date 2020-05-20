@@ -8,4 +8,7 @@
 * We assumed the roles of each stakeholder and imagined their conversation and interaction to come up with the empathy map
 * We used personal experience as a caller to come up with POV’s for the customer
 * We came up with a list of stakeholders such as Customers, RM’s, Developers and decided to focus on Customer and RM’s as they are the most relevant
+* We made the assumption that the old system was not able to handle multiple inbound calls in an efficient way and was not able to allocate customers based on likelihood of purchase
+* We used personal work experience when thinking of the relationship managers POV
+
 
