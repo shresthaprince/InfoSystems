@@ -12,4 +12,10 @@ The travel company is planning to develop this information system in order to im
 ![Customer Empathy Map](https://github.com/shresthaprince/InfoSystems/blob/master/Diagrams/CustomerEmpathyMap.jpg)
 
 **Relationship Manager**
+
+
+
+
+### Reflection
+![Relection](https://github.com/shresthaprince/InfoSystems/blob/develop/Reflection.md)
 **Developers**
