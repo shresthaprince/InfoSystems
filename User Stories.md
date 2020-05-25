@@ -4,7 +4,7 @@
 * As a customer, I want to be connected to a RM that has knowledge about my destination so that I can make an informed decision.
 * As a customer, I want to receive Itinerary and transaction details automatically sent to my email address once the sale has been completed So that I can have a seamless experience. 
 * As a customer, I want to be able to be removed from the target list, so that I do not get interrupted during the day.
-* As a customer, I want to talk to the same Relationship Manager…. So that … I can have consistency when talking about travelling. 
+* As a customer, I want to talk to the same Relationship Manager so that I can have consistency when talking about travelling. 
 * As a customer, I want to have a transcript of our conversation sent to my email so that I have information on all the questions I asked and won’t need to ask them again
 * As a customer, I want to be connected to a Relationship Manager in as little time as possible so that I don’t have to wait on hold for too long.
 
