@@ -13,3 +13,7 @@
 * As a RM,  I want as much information I can have about the caller so that I can provide relevant information and reduce the call duration.
 * As a RM,  I want my target list to have products I know and customers that match with my profile so that I can increase my chances of selling the product.
 * As a RM,  I want a script that is designed for the particular customer target list so that I can connect better with the customer.
+* As a RM,  I want my inbound calls to have a score from 1-10 so that I can see how likely they are to make a purchase. 
+* As a RM,  I want to be able to update my RM Profile as I learn new information so that I can provide the highest level of customer service to my customers.
+* As a RM,  I want to be able to view and compare prices of listings so that I can provide the customer with information in a fast and efficient manner. 
+* As a RM,  I want customers to be segmented into social and cultural groups so that I have a better chance of relating to them to get the sale. 
