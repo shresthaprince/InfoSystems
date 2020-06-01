@@ -26,4 +26,7 @@
 * Is timely to the organisation
 * May cause demotivation within the organisation for relationship managers 
 * Company will have to restart in trying to create another effective system - wasting more time and money 
-
+* Customer satisfaction falls and results in less business
+* Could result in negative customer reviews further reducing the likelihood to increase their user base
+* If it fails, customers could start to question the reliability of the service as a whole
+* If characteristics are mapped out incorrectly, it could result in errors in the system which may take time to realise and could result in long-term problems
