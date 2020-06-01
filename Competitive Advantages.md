@@ -19,3 +19,7 @@
 * If the implementation of these changes in information system were to fail RM’s could be upset due to lost commissions
 * If it were to fail, upfront costs would be required to either revert back to older system features or invest more into finding a solution
 * If the project fails, the money invested into improving systems will have to be written off as a loss 
+* Is timely to the organisation
+* May cause demotivation within the organisation for relationship managers 
+* Company will have to restart in trying to create another effective system - wasting more time and money 
+
