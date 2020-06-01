@@ -10,6 +10,10 @@
 * With the database accumulated regarding customer information, future calls outbound calls will yield higher success rates of closing sales thus generating greater returns.
 * Over time, the database will grow with RM’s adding key information about specific customers in case a new RM has taken over since the previous RM had left the company
 * As the company grows its market share, tour and hotel vendors will likely reach out in trying to gain a partnership which could generate a higher return
+* When RMs have higher success rates due to the improved system, it improves workplace morale as their jobs are easier and are generating positive outcomes
+* Increased customer satisfaction leads to positive customer reviews of the company which generates further revenue and increased amount of users
+* Improved flow of inbound and outbound calls will lead to higher satisfaction rates with customer's and system will run more smoothly
+
 
 ### Effects if project were to fail
 
